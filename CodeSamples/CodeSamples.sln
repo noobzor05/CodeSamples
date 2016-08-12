@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLoaderSample", "DataLoaderSample\DataLoaderSample.csproj", "{83C5BFDA-52B6-41B0-8DA5-5703F5BE3E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoDataLayerAbstraction", "AdoDataLayerAbstraction\AdoDataLayerAbstraction.csproj", "{6EDC98FA-33E0-40A4-96A4-9EF4CAE32CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoggleSolver", "BoggleSolver\BoggleSolver.csproj", "{F68B1585-370E-454D-8F6E-1D4B308585B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimJenkinsCodeSamples", "TimJenkinsCodeSamples\TimJenkinsCodeSamples.csproj", "{3C6A1475-E80E-40C7-BC8C-A526CA765216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C5BFDA-52B6-41B0-8DA5-5703F5BE3E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C5BFDA-52B6-41B0-8DA5-5703F5BE3E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C5BFDA-52B6-41B0-8DA5-5703F5BE3E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C5BFDA-52B6-41B0-8DA5-5703F5BE3E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDC98FA-33E0-40A4-96A4-9EF4CAE32CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDC98FA-33E0-40A4-96A4-9EF4CAE32CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDC98FA-33E0-40A4-96A4-9EF4CAE32CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDC98FA-33E0-40A4-96A4-9EF4CAE32CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68B1585-370E-454D-8F6E-1D4B308585B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68B1585-370E-454D-8F6E-1D4B308585B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68B1585-370E-454D-8F6E-1D4B308585B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68B1585-370E-454D-8F6E-1D4B308585B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6A1475-E80E-40C7-BC8C-A526CA765216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6A1475-E80E-40C7-BC8C-A526CA765216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6A1475-E80E-40C7-BC8C-A526CA765216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6A1475-E80E-40C7-BC8C-A526CA765216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
